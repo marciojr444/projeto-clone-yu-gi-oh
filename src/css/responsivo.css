@@ -4,25 +4,25 @@
         padding: 0 15px;
     }
 
-    .slider{
+    .slider {
         gap: 10px;
     }
 }
 
 @media(max-width: 496px) {
-    .lista-personagens{ 
-        width: 250px
+    .lista-personagens {
+        width: 250px;
     }
 
-    .imagem-carta{
+    .imagem-carta {
         width: 100%;
     }
 
-    .slider{
+    .slider {
         position: relative;
     }
 
-    .btn-seta{
+    .btn-seta {
         position: absolute;
         bottom: -13%;
     }
@@ -36,14 +36,14 @@
     }
 }
 
-@media(max-width: 375px){
-    body { 
+@media(max-width: 375px) {
+    body {
         justify-content: start;
         padding-top: 10px;
         gap: 10px;
     }
 
-    .cabecalho{
+    .cabecalho {
         font-size: 12px;
     }
 }
